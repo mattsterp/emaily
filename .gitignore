@@ -1,6 +1,6 @@
 ### macOS ###
 # Keys
-keys.js
+dev.js
 # General
 .DS_Store
 .AppleDouble
